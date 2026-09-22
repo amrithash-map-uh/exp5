@@ -10,4 +10,9 @@ if(a%2 == 0){ printf("Even");}
 else 
 	printf("odd");
 	
+// hemlo my name is amrit it is nice to meet you heheheh.........
+
+
+
+
 }
