@@ -1,4 +1,4 @@
-#include<stdio.h>//lab3.c
+#include<stdio.h>//changes made locally
 
 
 void main(){
@@ -10,7 +10,7 @@ if(a%2 == 0){ printf("Even");}
 else 
 	printf("odd");
 	
-// hemlo my name is amrit it is nice to meet you heheheh.........
+
 
 
 
